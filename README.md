@@ -15,3 +15,25 @@ Otra lista ordenada:
    - Importante
    - Recordar
 3. Tercer paso
+
+## Más cositas
+Enlace a [la web del kernel](https://kernel.org).
+
+Código:
+
+- Esto es `INSERT INTO´ en formato inline.
+- Lo siguiete es un bloque de código:
+
+```sql
+CREATE TABLE gatito (
+  cabeza VARCHAR(255),
+  patitas INT
+);
+```
+
+También si intentamos con varios espacios:
+
+    CREATE TABLE tabla (
+      a INT
+    );
+    
