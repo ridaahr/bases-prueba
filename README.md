@@ -1,6 +1,8 @@
 # bases-prueba
 Prueba
 
+![La época dorada de youtube](foto1.jpg)
+
 ## Sección
 Una lista:
 - Hola.
