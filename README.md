@@ -13,4 +13,3 @@ Otra lista ordenada:
    - Importante
    - Recordar
 3. Tercer paso
-4. 
