@@ -2,4 +2,4 @@
 
 Hola, esto es **negrita** :-)
 
-Puedes ir [al README principal](README.md).
+Puedes ir [al README principal](../README.md).
