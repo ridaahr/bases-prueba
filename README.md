@@ -2,6 +2,8 @@
 Prueba
 
 Puedes ver [mis notas](directorio/mis-notas.md)
+
+Esto lo edito con nano
 ![La época dorada de youtube](foto1.jpg)
 
 ## Sección
