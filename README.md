@@ -1,6 +1,6 @@
 # bases-prueba
 Prueba
-
+Puedes ver [mis notas](directorio/mis-notas.md)
 ![La época dorada de youtube](foto1.jpg)
 
 ## Sección
